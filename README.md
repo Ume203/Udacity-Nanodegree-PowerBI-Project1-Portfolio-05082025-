@@ -47,12 +47,12 @@ I have built four pages for this report. The format was provided.
 
 🟢 2. Gross Proft and Unit Sales
 
-![2](Screenshots/2-Gross-Profit-and-Unit-Sales)
+![2](Screenshots/2-Gross-Profit-and-Unit-Sales.png)
 
 🟣 3. SO1 Product type
 
-![3](Screenshots/3-SO1-Product-type)
+![3](Screenshots/3-SO1-Product-type.png)
 
 🔴 4. SO2 Seasonality
 
-![4](Screenshots/4-SO2-Seasonality)
+![4](Screenshots/4-SO2-Seasonality.png)
