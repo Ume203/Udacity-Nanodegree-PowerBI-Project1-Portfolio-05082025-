@@ -51,7 +51,7 @@ I have built four pages for this report. The format was provided.
 
 🟣 3. SO1 Product type
 
-![3](Screenshots/3-SO1-Product-type.png)
+![3](Screenshots/3-SO1-Product-Type.png)
 
 🔴 4. SO2 Seasonality
 
