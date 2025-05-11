@@ -22,7 +22,7 @@ This project follows a structured approach to data transformation, modeling, and
 
 ### 2. Data Modeling
 
-- Define and establish relationships between data tables to support filtering and aggregation logic.
+- Define and establish relationships between data tables to support filtering and aggregation logGic.
 
 ### 3. DAX Measures and Visualizations
 
@@ -39,8 +39,20 @@ This project follows a structured approach to data transformation, modeling, and
 
 ### Dashboard Preview
 
-I have built five pages for this report.
+I have built four pages for this report. The format was provided.
 
-🟠 
+🟠 1. Sales and GPM
 
-![1](
+![1](Screenshots/1-Sales-and-GPM.png)
+
+🟢 2. Gross Proft and Unit Sales
+
+![2](Screenshots/2-Gross-Profit-and-Unit-Sales)
+
+🟣 3. SO1 Product type
+
+![3](Screenshots/3-SO1-Product-type)
+
+🔴 4. SO2 Seasonality
+
+![4](Screenshots/4-SO2-Seasonality)
