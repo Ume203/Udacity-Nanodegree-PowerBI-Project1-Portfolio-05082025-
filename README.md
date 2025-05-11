@@ -1,6 +1,7 @@
 This is the first project under Udacity Nanodegree Data Analysis and Visualization with Microsoft Power BI program 
 Course 4 Advanced Data Analysis with Power BI - Course 2: Prepairing and Modeling Data with Power BI
 
+----
 # Project 1: Data Modeling and Reporting for Seven Sages Brewing Company
 
 ## Objective
